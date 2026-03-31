@@ -13,7 +13,6 @@
 ## 📈 GitHub Stats
 
 
-![[Your Name]'s GitHub stats](https://github-readme-stats.vercel.app/api?username=prathamnagar96&show_icons=true&theme=transparent&hide_border=true)
-
+![Pratham's GitHub stats](https://github-readme-stats.vercel.app/api?username=prathamnagar96&show_icons=true&theme=transparent&hide_border=true)
 ---
 ⭐️ *Feel free to explore my repositories below!*
