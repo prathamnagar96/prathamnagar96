@@ -1,6 +1,6 @@
 # Hi there, I'm Pratham Nagar 👋
 
-AI & Data Science undergrad focused on machine learning technologies
+AI & Data Science undergrad focused on AI technologies
 
 ## 📫 How to reach me: **prathamnagar96@gmail.com** | **https://www.linkedin.com/in/prathamnagar96/**
 
